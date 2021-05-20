@@ -1,0 +1,54 @@
+{
+    "product": {
+        "-L7yBLiuu9oVLYEeH2SU": {
+            "productID": "01",
+            "productName": "Jacket",
+            "discription": "Jacket Size S",
+            "categories": "Jackets",
+            "priceperweek": "100",        
+            "imageUrl": "https://th-test-11.slatic.net/p/7/grandwish-men-double-sided-wear-jacket-bomber-jackets-letter-printcoat-m-5xl-army-green-intl-7602-32417002-e939d9e3f7ec4f8c83f9499f94052ea4-catalog.jpg_720x720q80.jpg_.webp"
+        },
+        "-L7yBOB-EorMXuXSLWoJ": {
+            "productID": "02",
+            "productName": "Guuci Shirt",
+            "discription": "Guuci Shirt Size L",
+            "categories": "Tops",
+            "priceperweek": "200",
+            "imageUrl": "https://cdn-images.farfetch-contents.com/12/41/63/18/12416318_11308944_240.jpg"
+        },
+        "-L7yBUrgEQV05MNv6V8m": {
+            "productID": "03",
+            "productName": "Jeans Skirts",
+            "discription": "Jeans Skirts Size M",
+            "categories": "Skirts",
+            "priceperweek": "150",
+            "imageUrl": "https://png.pngitem.com/pimgs/s/138-1389032_denim-skirt-1-miniskirt-hd-png-download.png"
+        }
+    },
+
+    "order": {
+        "-L7yBOB-EorMXuXSLWoJ": {
+            "orderID": "0001",
+            "productID": "01",
+            "firstName": "abc",
+            "lastName": "def",
+            "mobileNo": "0123456789",
+            "address": "bangkok",
+            "durationweek": "3",
+            "total price": "300",
+            "silpUrl": "https://sites.google.com/a/xeersoft.com/help/_/rsrc/1535096943246/news-and-announcement/accounting-receiptpayment-able-to-show-bank-account-information/3.png"
+        },
+        "-L7yBOB-EorMXuXSLW7J": {
+            "orderID": "0002",
+            "productID": "02",
+            "firstName": "xyz",
+            "lastName": "uvw",
+            "mobileNo": "0123456789",
+            "address": "bangkok",
+            "durationweek": "2",
+            "total price": "400",
+            "silpUrl": "https://sites.google.com/a/xeersoft.com/help/_/rsrc/1535096943246/news-and-announcement/accounting-receiptpayment-able-to-show-bank-account-information/3.png"
+        }
+    }
+
+}

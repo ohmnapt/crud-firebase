@@ -1,0 +1,21 @@
+{
+  "name": "vuefinalproject",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-carousel": "^1.0.6",
+    "@popperjs/core": "^2.9.2",
+    "axios": "^0.21.1",
+    "firebase": "^8.6.1",
+    "vue": "^3.0.11",
+    "vue-router": "^4.0.8",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.13",
+    "@vue/compiler-sfc": "^3.0.4"
+  }
+}
